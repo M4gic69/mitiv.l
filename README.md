@@ -1,2 +1,0 @@
-# mitiv.l
-motivacios level
